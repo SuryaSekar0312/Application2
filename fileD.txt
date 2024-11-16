@@ -1,2 +1,0 @@
-This is file B
-Surya is trying to become a devops expert
